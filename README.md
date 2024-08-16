@@ -1,1 +1,1 @@
-# Object-Detector
+This object detector project demonstrates the application of computer vision and machine learning for real-time object/scene classification. The user-friendly interface allows for easy data collection, model training, and real-time predictions.# Object-Detector
